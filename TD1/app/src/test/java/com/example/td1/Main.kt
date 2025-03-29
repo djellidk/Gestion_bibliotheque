@@ -17,6 +17,7 @@ fun main() {
     library.addBook(Book(10, "Murder on the Orient Express", "Agatha Christie"))
     library.addBook(Book(11, "Death on the Nile", "Agatha Christie"))
     library.addBook(Book(12, "The Mysterious Affair at Styles", "Agatha Christie"))
+    library.addBook(Book(13, "Evil under the Sun", "Agatha Christie"))
 
     // Menu interactif infini | Infinite menu loop
     while (true) {
